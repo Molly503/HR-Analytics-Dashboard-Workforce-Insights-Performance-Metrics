@@ -5,7 +5,7 @@ This interactive HR dashboard provides comprehensive insights into workforce dem
 
 ## Interactive Dashboard
 For the full interactive experience, please visit the dashboard on Tableau Public:
-[View HR Analytics Dashboard](https://public.tableau.com/app/profile/your-username/viz/HR-Analytics-Dashboard)
+[View HR Analytics Dashboard][(https://public.tableau.com/app/profile/your-username/viz/HR-Analytics-Dashboard)](https://public.tableau.com/app/profile/jie.liang3815/viz/HRDashboard_17409029486550/HRSummary?publish=yes)
 
 ## Key Features
 - Employee demographics breakdown by gender, education, and age
